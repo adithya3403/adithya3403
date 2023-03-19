@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adithya K</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya3403" alt="adithya3403" /> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/adithya3403/count.svg" alt="adithya3403" /> </p>
 
 - 📫 How to reach me **adithya3403@gmail.com**
 
